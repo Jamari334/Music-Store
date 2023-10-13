@@ -1,0 +1,18 @@
+*{background-color:rgb(139, 146, 147);}
+h1{
+ margin: 25px;
+ border: 20px;
+ color: black;
+ text-align: center;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size:large;
+}
+.center-pic{
+   
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
